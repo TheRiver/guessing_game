@@ -32,5 +32,6 @@ fn main() {
             }
         }
     }
+    println!("\nThanks for playing. You can find the source code available at https://github.com/TheRiver/guessing_game");
     
 }
